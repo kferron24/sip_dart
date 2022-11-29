@@ -1,6 +1,6 @@
 {
-    "name": "sip_dart",
-    "short_name": "sip_dart",
+    "name": "dart_sip_ua_example",
+    "short_name": "dart_sip_ua_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

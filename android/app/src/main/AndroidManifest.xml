@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sip_dart">
+    package="com.github.cloudwebrtc.dart_sip_ua_example">
    <application
-        android:label="sip_dart"
+        android:label="dart_sip_ua_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
